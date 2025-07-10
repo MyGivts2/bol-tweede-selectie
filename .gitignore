@@ -3,3 +3,4 @@
 /Dataset compleet/*.csv
 /Datasets gecleaned/*.csv
 /venv
+.env
